@@ -394,7 +394,7 @@ Jeśli Gemini zwraca błąd limitu, można włączyć:
 Tryb demo bez API
 ```
 
-Dzięki temu aplikacja nadal będzie działała podczas prezentacji.
+Dzięki temu aplikacja nadal będzie działała.
 
 ---
 
