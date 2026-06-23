@@ -333,7 +333,6 @@ Tryb demo jest przydatny, gdy:
 * nie ma internetu,
 * klucz API nie działa,
 * API chwilowo zwraca błąd,
-* aplikacja jest prezentowana na zajęciach.
 
 ---
 
